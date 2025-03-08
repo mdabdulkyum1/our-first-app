@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import Navbar from './Components/Navbar';
+import Newsletter from './components/NewsLetter/NewsLetter';
 
 export default function Home() {
   return (
@@ -7,7 +8,9 @@ export default function Home() {
       <div>
         <Navbar></Navbar>
       </div>
-      <h1> hello</h1>
+      <div>
+        <Newsletter></Newsletter>
+      </div>
     </div>
   );
 }
