@@ -1,4 +1,5 @@
 import Banner from './Components/Banner';
+import BrandScroller from './Components/BrandScroller/BrandScroller';
 import Demo from './Components/Demo/Demo';
 import Demo2 from './Components/Demo2/Demo2';
 import LatestCourse from './Components/LatestCourse/LatestCourse';
@@ -10,6 +11,7 @@ export default function Home() {
     <div>
       <div>
         <Banner></Banner>
+        <BrandScroller></BrandScroller>
       </div>
       <LatestCourse></LatestCourse>
       <Popular></Popular>
