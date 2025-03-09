@@ -51,7 +51,7 @@ const Footer = () => {
                 <div className="divider"></div>
                 {/* Copyright */}
                 <div className="text-center mt-4 text-sm">
-                    <p>&copy; {currentYear} Learnica. All rights reserved.</p>
+                    <p>&copy; {currentYear}All rights reserved by Debug Titans Team.</p>
                 </div>
             </div>
         </footer>
