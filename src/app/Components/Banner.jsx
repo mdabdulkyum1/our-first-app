@@ -11,7 +11,7 @@ const Banner = () => {
           <div className="bg-[#eef8ff] h-48 shadow-xl rounded-2xl flex flex-col justify-center items-center gap-4">
             <div className="bg-[#abd1e8] p-4 rounded-full">
               <Image
-                src="/assets/icons/flexibility.webp"
+                src="/assets/icons/flexibility.png"
                 alt="Logo"
                 width={70}
                 height={30}
@@ -24,7 +24,7 @@ const Banner = () => {
           <div className="bg-[#eef8ff] h-48 shadow-xl rounded-2xl flex flex-col justify-center items-center gap-4">
             <div className="bg-[#abd1e8] p-4 rounded-full">
               <Image
-                src="/assets/icons/support.webp"
+                src="/assets/icons/support.png"
                 alt="Logo"
                 width={70}
                 height={30}
@@ -37,7 +37,7 @@ const Banner = () => {
           <div className="bg-[#eef8ff] h-48 shadow-xl rounded-2xl flex flex-col justify-center items-center gap-4">
             <div className="bg-[#abd1e8] p-4 rounded-full">
               <Image
-                src="/assets/icons/SECURE-CHECKOUT.webp"
+                src="/assets/icons/SECURE.png"
                 alt="Logo"
                 width={70}
                 height={30}
@@ -50,7 +50,7 @@ const Banner = () => {
           <div className="bg-[#eef8ff] h-48 shadow-xl rounded-2xl flex flex-col justify-center items-center gap-4">
             <div className="bg-[#abd1e8] p-4 rounded-full">
               <Image
-                src="/assets/icons/FREE-ACCESS.webp"
+                src="/assets/icons/freebook.png"
                 alt="Logo"
                 width={70}
                 height={30}
@@ -92,7 +92,7 @@ const Banner = () => {
         <div className="bg-[#eef8ff] h-48 shadow-xl rounded-2xl flex flex-col justify-center items-center gap-4">
           <div className="bg-[#abd1e8] p-4 rounded-full">
             <Image
-              src="/assets/icons/flexibility.webp"
+              src="/assets/icons/flexibility.png"
               alt="Logo"
               width={70}
               height={30}
@@ -105,7 +105,7 @@ const Banner = () => {
         <div className="bg-[#eef8ff] h-48 shadow-xl rounded-2xl flex flex-col justify-center items-center gap-4">
           <div className="bg-[#abd1e8] p-4 rounded-full">
             <Image
-              src="/assets/icons/support.webp"
+              src="/assets/icons/support.png"
               alt="Logo"
               width={70}
               height={30}
@@ -118,7 +118,7 @@ const Banner = () => {
         <div className="bg-[#eef8ff] h-48 shadow-xl rounded-2xl flex flex-col justify-center items-center gap-4">
           <div className="bg-[#abd1e8] p-4 rounded-full">
             <Image
-              src="/assets/icons/SECURE-CHECKOUT.webp"
+              src="/assets/icons/SECURE.png"
               alt="Logo"
               width={70}
               height={30}
@@ -131,7 +131,7 @@ const Banner = () => {
         <div className="bg-[#eef8ff] h-48 shadow-xl rounded-2xl flex flex-col justify-center items-center gap-4">
           <div className="bg-[#abd1e8] p-4 rounded-full">
             <Image
-              src="/assets/icons/FREE-ACCESS.webp"
+              src="/assets/icons/freebook.png"
               alt="Logo"
               width={70}
               height={30}
